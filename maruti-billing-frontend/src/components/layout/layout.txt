@@ -1,6 +1,0 @@
-all layout here
-
-- Navbar.jsx
-- Footer.jsx
-- Sidebar.jsx
-- AdminSidebar.jsx

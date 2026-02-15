@@ -1,3 +1,0 @@
-all client pages here 
-- Home.jsx
-- Login.jsx

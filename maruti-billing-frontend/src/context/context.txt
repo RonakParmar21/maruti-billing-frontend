@@ -1,3 +1,0 @@
-all context file here 
-- AutoContext.jsx 
-- ThemeContext.jsx

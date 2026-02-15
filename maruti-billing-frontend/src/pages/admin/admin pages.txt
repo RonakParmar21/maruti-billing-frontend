@@ -1,3 +1,0 @@
-all admin pages here 
-- AdminLogin.jsx
-- Dashboard.jsx
