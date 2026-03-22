@@ -6,6 +6,7 @@ maruti billing frontend part
     - assets (folder)
         - images (folder) (all images here)
         - icons (folder) (all icons here)
+        - fonts (folder) (all fonts here)
     - components (folder)
         - common (folder) 
             - all common component here 
