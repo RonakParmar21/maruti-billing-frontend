@@ -1,6 +1,14 @@
 # maruti-billing-frontend
 maruti billing frontend part
 
+# Color
+- dark blue code : 0000ffff
+- cyne : 00def9ff
+
+# Font 
+- maruti font : Montserrat-bold
+- billing font : Montserrat-thin weight-280
+
 ## Folder Structure 
 - src 
     - assets (folder)
